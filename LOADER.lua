@@ -23,7 +23,7 @@ wait(1)
 vu:Button2Up(Vector2.new(0,0),workspace.CurrentCamera.CFrame)
 end)
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
-local Window = OrionLib:MakeWindow({Name = "MN HUB tester",IntroText = "tester123"})
+local Window = OrionLib:MakeWindow({Name = "MN HUB (BANANA DEOBF)",IntroText = "tester123"})
 local Tab7 = Window:MakeTab({
 	Name = "Shop",
 	Icon = "rbxassetid://4483345998",
